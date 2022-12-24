@@ -25,7 +25,7 @@ var userChoice;
 // retVal1 = alphafalse.charAt(Math.floor(Math.random() * n));
 var compChoice;
 var gameResult;
-let start = window.prompt(" Choose 'n', or 'a'")
+let start = window.prompt(" Press any key to start")
 yes = password += alpha.substring(randomNumber, randomNumber + 1);
 
 // if (start.toLowerCase() == "n") {
